@@ -1,0 +1,24 @@
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\bin\Debug\net8.0\SharedLayer.deps.json
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\bin\Debug\net8.0\SharedLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\bin\Debug\net8.0\SharedLayer.pdb
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.csproj.AssemblyReference.cache
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.AssemblyInfoInputs.cache
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.AssemblyInfo.cs
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.csproj.CoreCompileInputs.cache
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\refint\SharedLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.pdb
+C:\Users\z004wtcx\source\repos\ResultApi\SharedLayer\obj\Debug\net8.0\ref\SharedLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\bin\Debug\net8.0\SharedLayer.deps.json
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\bin\Debug\net8.0\SharedLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\bin\Debug\net8.0\SharedLayer.pdb
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.csproj.AssemblyReference.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.AssemblyInfoInputs.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.AssemblyInfo.cs
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\refint\SharedLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\SharedLayer.pdb
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\SharedLayer\obj\Debug\net8.0\ref\SharedLayer.dll

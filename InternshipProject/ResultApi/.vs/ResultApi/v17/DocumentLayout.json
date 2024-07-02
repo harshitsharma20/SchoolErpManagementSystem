@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\resultapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|solutionrelative:resultapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\resultapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|solutionrelative:resultapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Entities\\StudentDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Migrations\\20240318053031_Migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\resultapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|solutionrelative:resultapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\resultapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|solutionrelative:resultapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\entities\\subjecttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\subjecttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\businessaccesslayer\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\datalayer\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\datalayer\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\business\\iresultservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\business\\iresultservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\businessaccesslayer\\service\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\service\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\repository\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\datalayer\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\datalayer\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\business\\isubjectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\business\\isubjectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\business\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\business\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\business\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\business\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\entities\\resulttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\resulttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\businessaccesslayer\\service\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\service\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\resultapi\\resultapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|solutionrelative:resultapi\\resultapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\dto\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\dto\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\datalayer\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\datalayer\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\contract\\datalayer\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\contract\\datalayer\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\entities\\teacherdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\teacherdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\dataaccesslayer\\automapper\\projectmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BEDC25-4DF1-4046-BCE9-171445442543}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\automapper\\projectmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\dto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\dto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\businessaccesslayer\\businessaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F5A6B05-8038-4333-B084-AF7E03F54FDF}|BusinessAccessLayer\\BusinessAccessLayer.csproj|solutionrelative:businessaccesslayer\\businessaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\resultapi\\resultapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CC0DF1B-8E30-4330-A3DE-1981B8FB431B}|ResultApi\\ResultApi.csproj|solutionrelative:resultapi\\resultapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|c:\\users\\sharm\\downloads\\all items\\all items\\repos\\resultapi\\sharedlayer\\sharedlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A8768DA-B298-4D73-B9A8-07819735A916}|SharedLayer\\SharedLayer.csproj|solutionrelative:sharedlayer\\sharedlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 139,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\Program.cs",
+              "RelativeDocumentMoniker": "ResultApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\Program.cs",
+              "RelativeToolTip": "ResultApi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "ResultApi\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "ResultApi\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ResultApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ResultApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjectTable.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Entities\\SubjectTable.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\SubjectTable.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Entities\\SubjectTable.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\SubjectTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\Service\\SubjectService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Service\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\Service\\SubjectService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Service\\SubjectService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wBsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\SubjectRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\SubjectRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ResultApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\appsettings.json",
+              "RelativeToolTip": "ResultApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Entities\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Entities\\StudentDetails.cs",
+              "ToolTip": "C:\\Users\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Entities\\StudentDetails.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Entities\\StudentDetails.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:48:56.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\ResultDTO.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\DTO\\ResultDTO.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\ResultDTO.cs",
+              "RelativeToolTip": "SharedLayer\\DTO\\ResultDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\IResultRepository.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\DataLayer\\IResultRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\IResultRepository.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\DataLayer\\IResultRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IResultServices.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\IResultServices.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\Business\\IResultServices.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\IResultServices.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\Business\\IResultServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\Service\\ResultService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Service\\ResultService.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\Service\\ResultService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Service\\ResultService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ResultRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\ResultRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\ResultRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABBwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\DataLayer\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\ISubjectRepository.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\DataLayer\\ISubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISubjectServices.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\ISubjectServices.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\Business\\ISubjectServices.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\ISubjectServices.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\Business\\ISubjectServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TeacherRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\Business\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\IStudentService.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\Business\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\Business\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\Business\\ITeacherService.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\Business\\ITeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResultTable.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Entities\\ResultTable.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\ResultTable.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Entities\\ResultTable.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\ResultTable.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\Service\\TeacherService.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\Service\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\Service\\TeacherService.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\Service\\TeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResultApi.http",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\ResultApi.http",
+              "RelativeDocumentMoniker": "ResultApi\\ResultApi.http",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\ResultApi.http",
+              "RelativeToolTip": "ResultApi\\ResultApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\DTO\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "SharedLayer\\DTO\\StudentDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\SubjectDTO.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\DTO\\SubjectDTO.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\SubjectDTO.cs",
+              "RelativeToolTip": "SharedLayer\\DTO\\SubjectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\DataLayer\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\IStudentRepository.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\DataLayer\\IStudentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\Contract\\DataLayer\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\Contract\\DataLayer\\ITeacherRepository.cs",
+              "RelativeToolTip": "SharedLayer\\Contract\\DataLayer\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeacherDetails.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Entities\\TeacherDetails.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\TeacherDetails.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\Entities\\TeacherDetails.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\TeacherDetails.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjectMapping.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\AutoMapper\\ProjectMapping.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AutoMapper\\ProjectMapping.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\DataAccessLayer\\AutoMapper\\ProjectMapping.cs",
+              "RelativeToolTip": "DataAccessLayer\\AutoMapper\\ProjectMapping.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "SharedLayer\\DTO\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\DTO\\TeacherDTO.cs",
+              "RelativeToolTip": "SharedLayer\\DTO\\TeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BusinessAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\BusinessAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+              "RelativeToolTip": "BusinessAccessLayer\\BusinessAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240318053031_Migrations.cs",
+              "DocumentMoniker": "C:\\Users\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Migrations\\20240318053031_Migrations.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Migrations\\20240318053031_Migrations.cs",
+              "ToolTip": "C:\\Users\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Migrations\\20240318053031_Migrations.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\z004wtcx\\source\\repos\\ResultApi\\DataAccessLayer\\Migrations\\20240318053031_Migrations.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:48:56.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResultApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\ResultApi.csproj",
+              "RelativeDocumentMoniker": "ResultApi\\ResultApi.csproj",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\ResultApi\\ResultApi.csproj",
+              "RelativeToolTip": "ResultApi\\ResultApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SharedLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\SharedLayer.csproj",
+              "RelativeDocumentMoniker": "SharedLayer\\SharedLayer.csproj",
+              "ToolTip": "C:\\Users\\sharm\\Downloads\\ALL ITEMS\\ALL ITEMS\\repos\\ResultApi\\SharedLayer\\SharedLayer.csproj",
+              "RelativeToolTip": "SharedLayer\\SharedLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T16:46:23.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

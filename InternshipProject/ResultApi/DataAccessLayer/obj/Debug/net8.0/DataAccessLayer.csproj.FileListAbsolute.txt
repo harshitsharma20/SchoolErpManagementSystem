@@ -1,0 +1,34 @@
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\SharedLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\SharedLayer.pdb
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\z004wtcx\source\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\SharedLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\bin\Debug\net8.0\SharedLayer.pdb
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\sharm\Downloads\ALL ITEMS\ALL ITEMS\repos\ResultApi\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

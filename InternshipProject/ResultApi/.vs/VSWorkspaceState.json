@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Repository",
+    "\\ResultApi",
+    "\\ResultApi\\Controllers",
+    "\\SharedLayer",
+    "\\SharedLayer\\DTO"
+  ],
+  "SelectedNode": "\\ResultApi.sln",
+  "PreviewInSolutionExplorer": false
+}
